@@ -5,8 +5,8 @@
 // @description  Tự động đăng ký Katabump + Giải Captcha bằng Gemini AI
 // @author       Shark Pro
 // @icon         https://i.postimg.cc/yxc1Hc6v/image.png
-// @downloadURL  https://raw.githubusercontent.com/Kimmanhdz/Auto-/refs/heads/main/ref%20katabump.js
-// @updateURL    https://raw.githubusercontent.com/Kimmanhdz/Auto-/refs/heads/main/ref%20katabump.js
+// @downloadURL  https://raw.githubusercontent.com/Kimmanhdz/Auto-/refs/heads/main/user.user.js
+// @updateURL    https://raw.githubusercontent.com/Kimmanhdz/Auto-/refs/heads/main/user.user.js
 // @require      https://raw.githubusercontent.com/Kimmanhdz/Auto-/refs/heads/main/protected.js
 // @match        *://*.katabump.fr/*
 // @match        *://*.katabump.com/*
